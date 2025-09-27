@@ -4,7 +4,7 @@ public class Metrics {
     public long comparisons;
     public long allocations;
     public long nanos;
-    public int maxDepth;
+    public int  maxDepth;
     private int curDepth;
 
     public void enter() { curDepth++; if (curDepth > maxDepth) maxDepth = curDepth; }
