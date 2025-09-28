@@ -68,3 +68,5 @@ QuickSort’s recursion depth was effectively limited to ~2·log₂(n).
 Deterministic Select matched the k-th order statistic from Arrays.sort in all tests.
 
 Closest Pair runs in O(n log n) and gives the same result as O(n²) brute force.
+<img width="744" height="577" alt="Снимок экрана 2025-09-28 154526" src="https://github.com/user-attachments/assets/f175a686-1199-4521-ba00-ea40153a70ce" />
+
